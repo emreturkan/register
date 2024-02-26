@@ -1,0 +1,11 @@
+{
+  "description": "Emre Personal Website",
+  "repo": "https://github.com/emreturkan",
+  "owner": {
+    "username": "emre",
+    "email": "emreturkan10@gmail.com"
+  },
+  "record": {
+    "CNAME": "emreturkan.com"
+  }
+}
